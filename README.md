@@ -13,8 +13,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/juniorcines/Pancakeswap-Predition-V5-By-Onyx`` 
-2. ``cd Pancakeswap-Predition-V5-By-Onyx.git``
+1. ``git clone https://github.com/juangabriel95/Ronin-Wallet---AXS-Restake-Automatic-Axie-Infinity-V1`` 
+2. ``cd Ronin-Wallet---AXS-Restake-Automatic-Axie-Infinity-V1``
 3. ``npm i``
 4. ``npm i -g pm2``
 5. ``pm2 start node index.js --name="RoninRestakeAXSBot" --watch``
