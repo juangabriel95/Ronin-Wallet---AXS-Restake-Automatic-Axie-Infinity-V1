@@ -1,0 +1,16 @@
+{
+  "name": "ronin-wallet-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "cron": "^2.1.0",
+    "ethers": "^5.7.1",
+    "telegraf": "^4.11.2",
+    "tzdata": "^1.0.36"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.0.0"
+  }
+}
